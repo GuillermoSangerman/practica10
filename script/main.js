@@ -18,8 +18,6 @@ fetch (`https://jsonplaceholder.typicode.com/users`)
       </div>`
       cardContainer.innerHTML += card_template
 
-      console.log(data) 
-        
     }); 
 
         
